@@ -36,7 +36,6 @@ numbers = [10, 20, 30, 40]
 
 print("Sum of list:", sum(numbers))
 
-
 # 5. Count number of zeros in tuple
 
 a = (7, 0, 8, 0, 0, 9)
